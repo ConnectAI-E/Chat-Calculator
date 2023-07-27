@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ConnectAI-E"><img src="https://img.shields.io/badge/ConnectAI%20-96-%c" alt="ConnectAI"></a>
+  <a href="https://github.com/ConnectAI-E"><img src="https://img.shields.io/badge/ConnectAI%20-96-%" alt="ConnectAI"></a>
   <a href="https://github.com/connectai-e/Chat-Calculator/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/connectai-e/Chat-Calculator?label=license&logo=github&color=f80&logoColor=fff" alt="License" />
   </a>
