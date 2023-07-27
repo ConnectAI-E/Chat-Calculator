@@ -114,12 +114,12 @@ export default function Chat() {
               </a>{" "}
               AI chatbot that uses{" "}
               <a
-                href="https://platform.openai.com/docs/guides/gpt/function-calling"
+                href="https://js.langchain.com/docs/modules/agents/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-medium underline underline-offset-4 transition-colors hover:text-black"
               >
-                OpenAI Functions
+                LangChainJS
               </a>{" "}
               and{" "}
               <a
@@ -130,15 +130,7 @@ export default function Chat() {
               >
                 Vercel AI SDK
               </a>{" "}
-              to interact with the{" "}
-              <a
-                href="https://github.com/HackerNews/API"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="font-medium underline underline-offset-4 transition-colors hover:text-black"
-              >
-                Hacker News API
-              </a>{" "}
+              to calculate
               with natural language.
             </p>
           </div>
