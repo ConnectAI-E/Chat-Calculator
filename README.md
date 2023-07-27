@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ConnectAI-E"><img src="https://img.shields.io/badge/ConnectAI%20-96-%c" alt="Hacker News"></a>
+  <a href="https://github.com/ConnectAI-E"><img src="https://img.shields.io/badge/ConnectAI%20-96-%c" alt="ConnectAI"></a>
   <a href="https://github.com/connectai-e/Chat-Calculator/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/connectai-e/Chat-Calculator?label=license&logo=github&color=f80&logoColor=fff" alt="License" />
   </a>
@@ -27,7 +27,10 @@
 
 ## Introduction
 
-Chat-Calc is an open-source AI chatbot that uses [Langchain](https://js.langchain.com/docs/modules/agents/) and the [Vercel AI SDK](https://sdk.vercel.ai/docs) to interact with the [Hacker News API](https://github.com/HackerNews/API) with natural language.
+Chat-Calc is an open-source AI chatbot that uses [Langchain](https://js.langchain.com/docs/modules/agents/) and the [Vercel AI SDK](https://sdk.vercel.ai/docs) to interact with natural language.
+
+
+https://github.com/ConnectAI-E/Chat-Calculator/assets/50035229/c11841e4-118e-49a5-8bac-bdf8d480d8e6
 
 
 
@@ -35,7 +38,9 @@ Chat-Calc is an open-source AI chatbot that uses [Langchain](https://js.langchai
 
 You can deploy your own version of Chat-Calc with 1-click:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?demo-title=Chat-Calc)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ConnectAI-E/Chat-Calculator&env=OPENAI_API_KEY&project-name=chat-calc&repository-name=Chat-Calc)
+</details>
 
 ## Setting Up Locally
 
