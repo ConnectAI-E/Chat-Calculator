@@ -132,6 +132,15 @@ export default function Chat() {
               </a>{" "}
               to calculate
               with natural language.
+              Project is made by {" "}
+              <a
+                href="https://github.com/ConnectAI-E"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-medium underline underline-offset-4 transition-colors hover:text-black"
+              >
+                ConnectAI
+              </a>{" "} with ❤️ .
             </p>
           </div>
           <div className="flex flex-col space-y-4 border-t border-gray-200 bg-gray-50 p-7 sm:p-10">
