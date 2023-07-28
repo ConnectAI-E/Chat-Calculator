@@ -28,8 +28,7 @@
 
 Chat-Calc is an open-source AI chatbot that uses [Langchain](https://js.langchain.com/docs/modules/agents/) and the [Vercel AI SDK](https://sdk.vercel.ai/docs) to interact with natural language.
 
-
-https://github.com/ConnectAI-E/Chat-Calculator/assets/50035229/c11841e4-118e-49a5-8bac-bdf8d480d8e6
+![转换视频](https://github.com/DDMeaqua/Chat-Calculator/assets/110169811/c93da330-dbc4-4908-84bb-450b5c0ae69b)
 
 
 
